@@ -1,0 +1,28 @@
+{
+    "requests": [
+      {
+        "id": 1,
+        "nombre_usuario": "Ejemplo-peres",
+        
+        
+  "email": "ejemplo@gmail.com",
+        "articulo": "Artículo",
+        
+   
+  "color": "Rojo",
+        "imagen": "imagen1.jpg"
+      },
+      {
+        "id": 2,
+        
+        
+  "nombre_usuario": "Ejemplo2",
+        "email": "ejemplo2@example.com",
+        
+    
+  "articulo": "Artículo2",
+        "color": "Azul",
+        "imagen": "imagen2.jpg"
+      }
+    ]
+  }
